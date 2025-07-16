@@ -1,0 +1,9 @@
+streamlit==1.28.0
+opencv-python==4.8.0.76
+pytesseract==0.3.10
+torch==2.0.1
+pandas==2.0.3
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+ultralytics==8.0.0
+numpy

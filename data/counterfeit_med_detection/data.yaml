@@ -1,0 +1,7 @@
+train: C:/Users/SAAKSHI/Desktop/projects/medicine-authenticity-checker/medicine-authenticity-detector/data/counterfeit_med_detection/train/images
+val: C:/Users/SAAKSHI/Desktop/projects/medicine-authenticity-checker/medicine-authenticity-detector/data/counterfeit_med_detection/valid/images
+test: C:/Users/SAAKSHI/Desktop/projects/medicine-authenticity-checker/medicine-authenticity-detector/data/counterfeit_med_detection/test/images
+
+nc: 2
+names: ['counterfeit', 'real']
+
